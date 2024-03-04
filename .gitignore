@@ -1,0 +1,13 @@
+.idea
+.idea/
+.idea/*
+*.iml
+*.ipr
+*.iws
+.gradle
+.gradle/
+.gradle/*
+.DS_Store
+.vscode
+.vscode/
+.vscode/*
